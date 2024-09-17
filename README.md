@@ -17,11 +17,9 @@ Hi! 🎉 👋
 ---
 
 <!-- SUMMARY  -->
-> ✨ Currently, I'm learning about Typescript | React.js | Next.js | Chakra UI ✨
+> ✨ Passionated to readable code ✨
 
-Ruby on Rails dev who find a money to pay [Genshin Impact](https://genshin.mihoyo.com/) 😂
-
-My homepage is under constructing on [nijicha.notion.site](https://nijicha.notion.site)
+Work in Progress
 
 So, you can ping message to me via
 <!-- Contact point  -->
